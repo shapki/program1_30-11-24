@@ -25,6 +25,7 @@ fun main() {
     val nums1 = readInt()
     print("| Второй массив: ")
     val nums2 = readInt()
+    testintersection(nums1, nums2)
 
 /*    var nums1 = intArrayOf(1,2,2,1)
     var nums2 = intArrayOf(2,2)
